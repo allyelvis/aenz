@@ -1,1 +1,22 @@
-{}
+{
+  "name": "aenz",
+  "version": "1.0.0",
+  "description": "Accounting system with rest api in django",
+  "main": "setup.py",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allyelvis/aenz.git"
+  },
+  "keywords": [
+    "aenz"
+  ],
+  "author": "Ally Elvis Nzeyimana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allyelvis/aenz/issues"
+  },
+  "homepage": "https://github.com/allyelvis/aenz#readme"
+}
